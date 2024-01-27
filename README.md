@@ -1,4 +1,4 @@
-# Creating an S3 Bucket and Adding a Group with Full Access
+# Creating S3 Bucket and Adding User Group with Full Access
 This repository contains Terraform configuration files to create an S3 bucket and add a group with full access to the bucket.
 
 ## Prerequisites
